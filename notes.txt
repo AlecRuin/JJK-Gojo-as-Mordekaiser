@@ -1,0 +1,61 @@
+mordekaiser_base_i_glow = mordekaiser's glowing effect [DONE]
+around his person
+
+mordekaiser_base_mace_idle = morde's glowing nightfall [DONE]
+vfx
+
+mordekaiser_base_q_indicatortrap = the glowing outline of morde's [DONE]
+q before it hits the ground. also has the trail and nightfall's silohette
+
+mordekaiser_base_q_mace/mordekaiser_base_q_mace_charge = glowing effect on morde during Q  [DONE]
+
+Q_impact_miss = fissure created on Q [DONE]
+Q_impact_dust = green glow created by fissure [DONE]
+
+base_i_glow = [DONE]
+    bodyglow = weird small smoking effect irradiating off
+    softGloFront = looks exactly the same as bodyglow
+    tENDRILS = smoky tendril effects going upwards
+
+mordekaiser_base_passive_buf_aoe = has 3 variations just like base_e_aoe. is the shockwave effect coming off of mordekaiser when passsive is activated [DONE]
+
+mordekaiser_base_passive_buff_end [DONE]
+
+mordekaiser_base_ba_tar_L2R = Basic attack tar applied from left to right swing [DONE]
+mordekaiser_base_ba_tar_R2L = Basic attack tar applied from right to left swing [DONE]
+mordekaiser_base_autoattack_R2L_A = swipe effect that spawns on attack [DONE]
+mordekaiser_base_autoattack_L2R_A = swipe effect that spawns on attack [DONE]
+mordekaiser_base_w_shield_helmflame [DONE]
+mordekaiser_base_w_shields [DONE]
+
+mordekaiser_base_passive_hit_linger/mordekaiser_base_passive_hit_linger_enemy = special effects on enemy inside passive [DONE]
+mordekaiser_base_passive_hit_streak/mordekaiser_base_passive_hit_streak_enemy [DONE]
+
+mordekaiser_base_e_aoe = mordekaiser's glowing giant hand
+used in E. has 3 versions ending with [blank],ally, and enemy
+mordekaiser_base_e_mis = green missle that is sent first. 
+mordekaiser_base_e_handglow = glowing green hand
+mordekaiser_base_e_aoe_splash = slimer effect from E 
+mordekaiser_base_Q_tar_Q1 = red effect when enemy is hit by E
+
+mordekaiser_base_r_mace_head [DONE]
+mordekaiser_base_r_cast_beam [DONE]
+mordekaiser_base_r_morde_enter [DONE]
+mordekaiser_base_r_cast [DONE]
+mordekaiser_base_recall_stairs [DONE]
+mordekaiser_base_death [DONE]
+mordekaiser_base_r_morde_specter
+mordekaiser_base_r_morde_specter_chestglow
+
+Jayce_Base_OrbLightning/Jayce_base_Q_range_xp
+Jayce_Base_OrbLightningCharged/Jayce_base_Q_range_xp_gate
+veigar_skin09_q_mis
+
+syndra_base_q_2021_idle
+syndra_base_q_2021_spheredeath
+syndra_base_q_2021_timer
+aa1 is gutt punch.
+aa2 is right hook
+fast aa1 is gutt punch
+sett_base_ba_swipe_01
+sett_base_ba_swipe_02
